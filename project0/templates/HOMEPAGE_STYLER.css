@@ -1,0 +1,62 @@
+body {
+    background: url('TRACKS.jpg') no-repeat center fixed;     
+    background-size: cover;
+  
+}
+
+.header{
+padding: 5px;
+text-align: left;
+color: whitesmoke;
+font-size: 20px;
+width: 50%;
+margin-left: 10px;
+}
+
+.links{
+    padding: 0px;
+    text-align: left;
+    color: whitesmoke;
+    margin-left: 10px;
+    font-size: 16px;
+    width: 300px;
+}
+
+a
+{
+    color: #ffffff;
+}
+
+#main_header{
+    font-size: 30px
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+        background: url('TRACKS.jpg') no-repeat center fixed;     
+        background-size: 100%;     
+    }
+
+    .header{
+        padding: 5px;
+        text-align: left;
+        color: whitesmoke;
+        font-size: 10px;
+        margin-left: 10px;
+        width: 50%;
+        }
+        
+        .links{
+            padding: 0px;
+            text-align: left;
+            color: whitesmoke;
+            font-size: 8px;
+            margin-left: 10px;
+            width: 300px;
+        }
+        
+        #main_header{
+            font-size: 15px;
+            margin-left: 10px;
+        }
+  }

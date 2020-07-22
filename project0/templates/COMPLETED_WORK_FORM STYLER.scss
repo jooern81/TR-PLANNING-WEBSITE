@@ -1,0 +1,23 @@
+$buttonColor: rgb(207, 66, 47);
+$textColor: rgb(57, 80, 136);
+
+
+form #submit_button button {
+    background: $buttonColor;
+}
+
+form #reset_button button {
+    background: $buttonColor;
+}
+
+h1 {
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+  label{
+    background: lightblue;
+    text-decoration-color: lightcoral;
+  }
+

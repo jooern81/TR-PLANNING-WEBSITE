@@ -1,0 +1,24 @@
+form #submit_button button {
+  background: #cf422f;
+}
+
+form #reset_button button {
+  background: #cf422f;
+}
+
+h1 {
+  background: lightblue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+label {
+  background: lightblue;
+  -webkit-text-decoration-color: lightcoral;
+          text-decoration-color: lightcoral;
+}
+/*# sourceMappingURL=COMPLETED_WORK_FORM STYLER.css.map */
